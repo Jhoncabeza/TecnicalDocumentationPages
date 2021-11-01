@@ -1,0 +1,54 @@
+#main-doc {
+  position: right;
+  width: 80%;
+  float: left;
+  font-size: 0.96em;
+}
+
+#navbar {
+  width: 20%;
+  height: 100vh;
+  font-size: 1.2em;
+  float: left;
+  font-weight: bold;
+}
+
+#navbar ul {
+  background-color: bisque;
+  list-style-type: none;
+}
+#navbar ul li a {
+  text-decoration: none;
+}
+
+a {
+  padding: 20px 20px;
+}
+
+code {
+  display: block;
+  text-align: left;
+  white-space: pre-line;
+  position: relative;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 2;
+  background-color: #f7f7f7;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+}
+header {
+  color: black;
+  padding: 10px;
+  text-align: left;
+  font-size: 1.8em;
+  font-weight: thin;
+  width: 20%;
+}
+
+p {
+  color: black;
+  padding: 10px;
+  font-size: 1em;
+}
